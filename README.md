@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Layout De Aplicativo feito no modulo 2
 
 ## Getting Started
 
